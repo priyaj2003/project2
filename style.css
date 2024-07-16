@@ -1,0 +1,219 @@
+
+*{
+    margin: 0px;
+}
+.inbox{
+    padding: 0px 10px;
+}
+.inbox1{
+    height: 100%;
+    background-color: cornflowerblue;
+}
+
+.sec2{
+    background-color: cornflowerblue;
+}
+
+.inbox2{
+    color: aliceblue;
+    padding: 50px;
+
+}
+.line{
+    height: 1px;
+    background-color: aliceblue;
+    display: inline-block;
+    width: 80%;
+    
+}
+ 
+.inbox3 {
+    text-align: center;
+    
+}
+.inbox8 img{
+    height: 200px;
+    object-fit: cover;
+}
+.inbox8{
+    margin-top: 15px;
+}
+.inbox9{
+    margin-top: 15px;
+}
+.inbox9 img{
+    height: 200px;
+    object-fit: cover;
+}
+.SAA{
+  
+  color: blue;
+  border: 1px solid blue;
+  padding: 5px 35px;
+  text-decoration: none;
+  margin-bottom: 15px;
+  display: inline-block;
+ 
+
+}
+.inbox4{
+  padding: 15px;
+  border-radius: 10%;
+  margin: 15px;
+  text-align: center;
+color: aliceblue;
+}
+
+
+
+
+.inbox5{
+    padding: 15px;
+    border-radius: 10%;
+    margin: 15px;
+    text-align: center;
+    color: aliceblue;
+}
+.inbox6{
+    padding: 15px;
+    border-radius: 10%;
+    margin: 15px;
+    text-align: center;
+    color: white;
+}
+
+.sec4{
+ background-color: rgb(110, 110, 241);
+}
+.qqq{
+    color: white;
+    text-align: center;
+    font-size:large;
+}
+
+.line1{
+    height: 2px;
+    background-color: white;
+    width: 50%;
+    margin: auto;   
+}
+.wee1{
+    color:white;
+    position: absolute;
+    text-align:center ;
+ height: 500px;
+ margin: 15px;
+   
+
+}
+.wee2{
+    color:white;
+    position: absolute;
+    text-align:center ;
+    height: 500px;
+    margin: 15px;
+   
+  
+
+}
+.wee3{
+    color:white;
+    position: absolute;
+    text-align:center ;
+     height: 500px;
+     margin: 15px;
+  
+
+}
+.sec5{
+    background-color: black;
+}
+
+.inbox7{
+    color: white;
+    text-align: center;
+}
+
+.pkd{
+    text-align: center;
+    color: black;
+}
+.inbox9{
+    /* position: absolute; */
+    height: 100%;
+}
+.sec7{
+    background-color: black;
+}
+.nn{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+.ll{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.ty{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+.mkk{
+    
+    color: blue;
+    /* border: 1px solid blue; */
+    padding: 5px 35px;
+    text-decoration: none;
+    margin-bottom: 15px;
+    display: inline-block;
+    background-color: white;
+}
+
+.inbox10{
+    text-align: center;
+}
+.inbox11{
+   
+    text-align: center;    
+   
+}
+
+.inbox12{
+    padding: 20px;
+    margin: 10px;
+    text-align: center;    
+   
+   
+}
+.inbox13 {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;    
+
+}
+
+.gg{
+    text-align: center;
+    color: black;
+    font-size: small;
+}
+.po{
+    text-align: center;
+    color: blue;
+    /* border: 1px solid blue; */
+    padding: 5px 35px;
+    /* text-decoration: none; */
+    margin-bottom: 15px;
+    display: inline-block;
+  
+}
+  
+    
+
+      
+      
+
